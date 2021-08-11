@@ -6,7 +6,7 @@
 - 👀 I’m interested in web developer and Design Graphic.
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics.
 - 💞️ I’m looking to collaborate on to improve my skills
-- 📫 you can contact via email/whatsapp
+- 📫 you can contact via Gmail <a href="mailto:roziqinkhoeru8@gmail.com?">roziqinkhoeru8@gmail.com</a>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=roziqinkhoeru&&show_icons=true&title_color=000000&icon_color=000000&text_color=0e0e0e&bg_color=eccb14">](https://github.com/roziqinkhoeru)
 
