@@ -2,7 +2,6 @@
 <h3 align="center">I'm a passionate Front-End Web Developer from Indonesia.</h3>
 
 <br/>
-<br/>
 
 ## 🙋‍♂️ About Me
 - 👀 I’m interested in web developer and Design Graphic.
