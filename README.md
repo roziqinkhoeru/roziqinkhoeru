@@ -51,7 +51,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=roziqinkhoeru">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/roziqinkhoeru?tab=followers"><img src="https://img.shields.io/github/followers/roziqinkhoeru?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---
 roziqinkhoeru/roziqinkhoeru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
