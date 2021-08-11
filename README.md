@@ -1,4 +1,5 @@
-# Hi, I’m [Khoeru Roziqin](https://github.com/roziqinkhoeru) 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://github.com/roziqinkhoeru">Khoeru Roziqin</a></h1>
+<h3 align="center">I'm a passionate Front-End Web Developer from Indonesia.</h3>
 
 - 👀 I’m interested in web developer and Design Graphic.
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics.
