@@ -32,7 +32,7 @@
 
 <br/>
 <a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roziqinkhoeru&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" /></a>
-<a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roziqinkhoeru&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&card_width=460&bg_color=0e0e0e" /></a>
+<a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roziqinkhoeru&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" /></a>
 <br/>
 <b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.
 <br/>
