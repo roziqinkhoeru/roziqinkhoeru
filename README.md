@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @roziqinkhoeru
+# Hi, I’m [Khoeru Roziqin](https://github.com/roziqinkhoeru) 👋
+
 - 👀 I’m interested in web developer and Design Graphic.
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics.
 - 💞️ I’m looking to collaborate on to improve my skills
