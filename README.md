@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 you can contact via email/whatsapp
 
-<img src="https://github-readme-stats.vercel.app/api?username=roziqinkhoeru&&show_icons=true&title_color=000000&icon_color=000000&text_color=0e0e0e&bg_color=eccb14">
+[<img src="https://github-readme-stats.vercel.app/api?username=roziqinkhoeru&&show_icons=true&title_color=000000&icon_color=000000&text_color=0e0e0e&bg_color=eccb14">](https://github.com/roziqinkhoeru)
 
 <!---
 roziqinkhoeru/roziqinkhoeru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
