@@ -44,7 +44,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "www.linkedin.com/in/roziqinkhoeru"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/roziqinkhoeru/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/khroz_studio/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
