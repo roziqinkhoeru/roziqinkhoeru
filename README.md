@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://github.com/roziqinkhoeru">Khoeru Roziqin</a></h1>
-<h3 align="center" color="eccb14">I'm a passionate Front-End Web Developer from Indonesia.</h3>
+<h3 color="eccb14">I'm a passionate Front-End Web Developer from Indonesia.</h3>
 
 <br/>
 
