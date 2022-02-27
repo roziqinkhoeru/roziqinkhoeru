@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://roziqinkhoeru.github.io/">Khoeru Roziqin</a></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://roziqinkhoeru.github.io/" target="__blank">Khoeru Roziqin</a></h1>
 <h3 align="center">I'm a passionate Front-End Web Developer from Indonesia.</h3>
 
 <br/>
