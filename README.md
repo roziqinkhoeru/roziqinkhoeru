@@ -19,10 +19,10 @@
     <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="42" title="JSON" /></a>
     <a href="https://www.php.net/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="42" title="PHP" /></a>
     <a href="https://sass-lang.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="42" title="Sass" /></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img src="https://roziqinkhoeru.github.io/roziqinkhoeru/icons/icon-bootstrap.svg" width="42" title="Bootstrap" /></a>
-    <a href="" target="_blank"></a>
-    <a href="" target="_blank"></a>
-    <a href="" target="_blank"></a>
+    <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="42" title="Bootstrap"/></a> 
+    <a href="https://reactjs.org/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="42" title="React" /></a>
+    <a href="https://www.npmjs.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="42" title="npm" /></a>
+    <a href="https://yarnpkg.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/yarn.svg" width="42" title="Yarn" /></a>
 </p>
 
 <p align="center">
