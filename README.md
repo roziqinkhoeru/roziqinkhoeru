@@ -10,6 +10,8 @@
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 you can contact via Gmail <a href="mailto:roziqinkhoeru8@gmail.com?">roziqinkhoeru8@gmail.com</a>
 
+<br/>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -28,6 +30,8 @@
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="42" title="Visual Studio Code" /></a>
 </p>
 
+<br/>
+
 <p align="center">
     <a href="https://github.com/roziqinkhoeru">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khoeru Roziqin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roziqinkhoeru&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
@@ -36,7 +40,6 @@
 
 ## 📊 My Github Stats
 
-<br/>
 <a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roziqinkhoeru&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" /></a>
 <a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roziqinkhoeru&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" /></a>
 <br/>
@@ -47,12 +50,14 @@
 <br/>
 <br/>
 
-## Connect with me:
+## 🤝 Connect with me:
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/roziqinkhoeru/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/khroz_studio/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/roziqinkhoeru/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="42" title="LinkedIn" /></a>
+<a href = "https://www.instagram.com/khroz_id/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="42" title="Instagram" /></a>
+<a href = "https://www.youtube.com/channel/UCzUYv8PkYwLeFCnLX1-6CXQ/videos"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="42" title="YouTube" /></a>
+<a href = "https://github.com/roziqinkhoeru"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="42" title="GitHub" /></a>
 
 </p>
 
