@@ -66,8 +66,6 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=roziqinkhoeru">
 </a>
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/roziqinkhoeru)
-[![HitCount](https://hits.dwyl.com/dwyl/hits.svg)](https://github.com/roziqinkhoeru)
 <a href="https://github.com/roziqinkhoeru?tab=followers"><img src="https://img.shields.io/github/followers/roziqinkhoeru?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---
