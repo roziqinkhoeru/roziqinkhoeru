@@ -67,6 +67,8 @@
     <img src="https://komarev.com/ghpvc/?username=roziqinkhoeru">
 </a> -->
 
+![](https://komarev.com/ghpvc/?username=roziqinkhoeru&style=plastic&color=eccb14)
+
 <a href="https://github.com/roziqinkhoeru?tab=followers"><img src="https://img.shields.io/github/followers/roziqinkhoeru?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---
