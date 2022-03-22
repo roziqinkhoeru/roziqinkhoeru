@@ -32,11 +32,11 @@
 
 <br/>
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/roziqinkhoeru">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khoeru Roziqin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roziqinkhoeru&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
     </a>
-</p> -->
+</p>
 
 ## 📊 My Github Stats
 
