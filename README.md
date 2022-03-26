@@ -54,8 +54,15 @@
 <br/>
 <br/>
 <a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roziqinkhoeru&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&hide_border=true" /></a>
+
+<a href = "">
+<img src = "https://contrib.rocks/image?repo = DicoAji/sumberjaya-furniture-admin.github.io"/>
+</a>
+Made with [contributors-img](https://contrib.rocks).
 <br/>
 <br/>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🤝 Connect with me:
 
