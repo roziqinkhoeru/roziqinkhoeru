@@ -38,6 +38,9 @@
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roziqinkhoeru&theme=vision-friendly-dark&hide_border=true&background=0e0e0e&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
+<br/>
+![](https://github.com/roziqinkhoeru/github-stats/blob/master/generated/overview.svg)
+
 ## 📊 My Github Stats
 
 <a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roziqinkhoeru&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" /></a>
