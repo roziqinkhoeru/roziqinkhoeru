@@ -32,14 +32,16 @@
 
 <br/>
 
-<a href="https://github.com/roziqinkhoeru">
+<!-- <a href="https://github.com/roziqinkhoeru">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khoeru Roziqin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roziqinkhoeru&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
-    </a>
+    </a> -->
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roziqinkhoeru&theme=vision-friendly-dark&hide_border=true&background=0e0e0e&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
+![roziqinkhoeru's github stats](https://github-readme-stats.vercel.app/api?username=roziqinkhoeru)
+
 <br/>
-![](https://github.com/roziqinkhoeru/github-stats/blob/master/generated/overview.svg)
+<!-- ![](https://github.com/roziqinkhoeru/github-stats/blob/master/generated/overview.svg) -->
 
 ## 📊 My Github Stats
 
