@@ -32,11 +32,9 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/roziqinkhoeru">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khoeru Roziqin's streak" src="http://github-readme-streak-stats.herokuapp.com?user=roziqinkhoeru&theme=vision-friendly-dark&hide_border=true&background=0e0e0e&date_format=M%20j%5B%2C%20Y%5D"/>
+<a href="https://github.com/roziqinkhoeru">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khoeru Roziqin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roziqinkhoeru&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
     </a>
-</p>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roziqinkhoeru&theme=vision-friendly-dark&hide_border=true&background=0e0e0e&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
@@ -44,23 +42,14 @@
 
 <a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roziqinkhoeru&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" /></a>
 
-<!-- [![roziqinkhoeru's GitHub stats](https://github-readme-stats.vercel.app/api?username=roziqinkhoeru&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e)](https://github.com/roziqinkhoeru) -->
-
 <a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roziqinkhoeru&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" /></a>
-
-<!-- [![Top Langs roziqinkhoeru's](https://github-readme-stats.vercel.app/api/top-langs/?username=roziqinkhoeru&langs_count=8&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e)](https://github.com/roziqinkhoeru) -->
 <br/>
 <b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.
 <br/>
 <br/>
-
-<a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roziqinkhoeru&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roziqinkhoeru&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&area=true&hide_border=true" /></a>
 <br/>
 <br/>
-
-<!-- [![roziqinkhoeru's github activity graph](https://activity-graph.herokuapp.com/graph?username=roziqinkhoeru&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&area=true&hide_border=true)](https://github.com/roziqinkhoeru)
-
-[![roziqinkhoeru's github activity graph](https://activity-graph.herokuapp.com/graph?username=roziqinkhoeru)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ## 🤝 Connect with me:
 
