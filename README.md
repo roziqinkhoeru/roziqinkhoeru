@@ -47,9 +47,12 @@
 <b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.
 <br/>
 <br/>
-<a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roziqinkhoeru&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&area=true&hide_border=true" /></a>
+
+<!-- <a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roziqinkhoeru&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&area=true&hide_border=true" /></a> -->
 <br/>
 <br/>
+
+[![roziqinkhoeru's github activity graph](https://activity-graph.herokuapp.com/graph?username=roziqinkhoeru&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&area=true&hide_border=true)](https://github.com/roziqinkhoeru)
 
 ## 🤝 Connect with me:
 
