@@ -36,16 +36,16 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khoeru Roziqin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roziqinkhoeru&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
     </a> -->
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roziqinkhoeru&theme=vision-friendly-dark&hide_border=true&background=0e0e0e&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-
-![roziqinkhoeru's github stats](https://github-readme-stats.vercel.app/api?username=roziqinkhoeru)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roziqinkhoeru&theme=vision-friendly-dark&hide_border=true&background=0e0e0e&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 <!-- ![](https://github.com/roziqinkhoeru/github-stats/blob/master/generated/overview.svg) -->
 
 ## 📊 My Github Stats
 
-<a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roziqinkhoeru&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" /></a>
+![roziqinkhoeru's github stats](https://github-readme-stats.vercel.app/api?username=roziqinkhoeru&show_icons=true&count_private=false&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e)
+
+<!-- <a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roziqinkhoeru&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" /></a> -->
 
 <a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roziqinkhoeru&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" /></a>
 <br/>
