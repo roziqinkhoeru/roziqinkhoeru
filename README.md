@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👀 I’m interested in web developer especially Front-End Web Dev.
+- 👀 I’m interested in web developer especially Front-End Web Dev
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics, and **Web Development**
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 you can contact via Gmail <a href="mailto:roziqinkhoeru8@gmail.com?">roziqinkhoeru8@gmail.com</a>
