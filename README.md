@@ -1,5 +1,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://roziqinkhoeru.github.io/" target="_blank">Khoeru Roziqin</a></h1>
 <h3 align="center">I'm a passionate Front-End Web Developer from Indonesia.</h3>
+<p align="center>
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=roziqinkhoeru"></a>
+<a href="https://github.com/roziqinkhoeru?tab=followers"><img src="https://img.shields.io/github/followers/roziqinkhoeru?label=Followers&style=social" alt="GitHub Badge"></a>
+
+</p>
+
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
@@ -44,12 +55,6 @@
 <a href = "https://github.com/roziqinkhoeru"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="42" title="GitHub" /></a>
 
 </p>
-
-## ❤ Views and Followers
-
-![](https://komarev.com/ghpvc/?username=roziqinkhoeru)
-
-<a href="https://github.com/roziqinkhoeru?tab=followers"><img src="https://img.shields.io/github/followers/roziqinkhoeru?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---
 roziqinkhoeru/roziqinkhoeru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
