@@ -29,7 +29,26 @@
 ## 🚀 Languages and Tools:
 
 <p align="center">
+        <!-- HTML -->
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="42" title="HTML5" /></a>
+        <!-- CSS -->
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="42" title="CSS3"/></a>
+        <!-- JavaScript -->
+        <a href="https://www.javascript.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="42" title="JavaScript" /></a>
+        <!-- PHP -->
+        <a href="https://www.php.net/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="42" title="PHP" /></a> 
+        <!-- Sass -->
+        <a href="https://sass-lang.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="42" title="Sass" /></a>
+        <!-- JSON -->
+        <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="42" title="JSON" /></a>
+        <!-- Bootstrap -->
+        <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png" width="42" title="Bootstrap"/></a>
+        <!-- JQuery -->
+        <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="42" height="42" alt="JQuery" title="JQuery" /></a>
+        <!-- CodeIgniter -->
+        <a href="https://codeigniter.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" width="42" title="Codeigniter 4"/></a>
+        <!-- React -->
+        <a href="https://reactjs.org/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="42" title="React" /></a>
 </p>
 
 <br/>
