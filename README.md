@@ -1,16 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://roziqinkhoeru.github.io/" target="_blank">Khoeru Roziqin</a></h1>
 <h3 align="center">I'm a passionate Front-End Web Developer from Indonesia.</h3>
-<p align="center>
+
+<p align="center">
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=roziqinkhoeru"></a>
 <a href="https://github.com/roziqinkhoeru?tab=followers"><img src="https://img.shields.io/github/followers/roziqinkhoeru?label=Followers&style=social" alt="GitHub Badge"></a>
 
 </p>
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
@@ -20,6 +16,16 @@
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics, and **Web Development**
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 you can contact via Gmail <a href="mailto:roziqinkhoeru8@gmail.com?">roziqinkhoeru8@gmail.com</a>
+
+<br/>
+<p align="center">
+
+<a href="https://www.instagram.com/khroz_id/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/roziqinkhoeru/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCzUYv8PkYwLeFCnLX1-6CXQ/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://github.com/roziqinkhoeru"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+
+</p>
 
 <br/>
 
@@ -49,10 +55,10 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/roziqinkhoeru/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="42" title="LinkedIn" /></a>
-<a href = "https://www.instagram.com/khroz_id/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="42" title="Instagram" /></a>
-<a href = "https://www.youtube.com/channel/UCzUYv8PkYwLeFCnLX1-6CXQ/videos"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="42" title="YouTube" /></a>
-<a href = "https://github.com/roziqinkhoeru"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="42" title="GitHub" /></a>
+<a href = ""><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="42" title="LinkedIn" /></a>
+<a href = ""><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="42" title="Instagram" /></a>
+<a href = ""><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="42" title="YouTube" /></a>
+<a href = ""><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="42" title="GitHub" /></a>
 
 </p>
 
