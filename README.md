@@ -16,7 +16,7 @@
 - 📫 you can contact via Gmail <a href="mailto:roziqinkhoeru8@gmail.com?">roziqinkhoeru8@gmail.com</a>
 
 <br/>
-<p align="center">🤝 Connect with me:</p>
+<h2 align="center">🤝 Connect with me:</h2>
 <p align="center">
         <a href="https://www.instagram.com/khroz_id/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
         <a href="https://www.linkedin.com/in/roziqinkhoeru/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -47,17 +47,6 @@
 <a href="https://github.com/roziqinkhoeru"><img alt="Khoeru Roziqin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roziqinkhoeru&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&area=true&hide_border=true" /></a>
 <br/>
 <br/>
-
-## 🤝 Connect with me:
-
-<p align="left">
-
-<a href = ""><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="42" title="LinkedIn" /></a>
-<a href = ""><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="42" title="Instagram" /></a>
-<a href = ""><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="42" title="YouTube" /></a>
-<a href = ""><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="42" title="GitHub" /></a>
-
-</p>
 
 <!---
 roziqinkhoeru/roziqinkhoeru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
