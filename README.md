@@ -28,6 +28,10 @@
 
 ## 🚀 Languages and Tools:
 
+<p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="42" title="HTML5" /></a>
+</p>
+
 <br/>
 
 ## 📊 My Github Stats
