@@ -37,20 +37,20 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="40" height="40" title="CSS3"/></a>
         <!-- JavaScript -->
         <a href="https://www.javascript.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="40" height="40" title="JavaScript" /></a>
-        <!-- PHP -->
-        <a href="https://www.php.net/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="40" height="40" title="PHP" /></a> 
         <!-- Sass -->
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" /></a>
+        <!-- PHP -->
+        <a href="https://www.php.net/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="40" height="40" title="PHP" /></a> 
         <!-- JSON -->
         <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="40" height="40" title="JSON" /></a>
-        <!-- Bootstrap -->
-        <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png" width="40" height="40" title="Bootstrap"/></a>
-        <!-- JQuery -->
-        <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="40" height="40" alt="JQuery" title="JQuery" /></a>
         <!-- CodeIgniter -->
         <a href="https://codeigniter.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" width="40" height="40" title="Codeigniter 4"/></a>
         <!-- React -->
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a>
+        <!-- JQuery -->
+        <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="40" height="40" alt="JQuery" title="JQuery" /></a>
+        <!-- Bootstrap -->
+        <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png" width="40" height="40" title="Bootstrap"/></a>
         <!-- Tailwind -->
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" /></a>
         <!-- Figma -->
@@ -69,13 +69,10 @@
 <br/>
 <p align="center">
         <a href="https://github.com/roziqinkhoeru">
-                <img alt="Khoeru Roziqin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roziqinkhoeru&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" />
+                <img alt="Khoeru Roziqin's Github Stats" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=roziqinkhoeru&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" />
         </a>
-</p>
-<br/>
-<p align="center">
         <a href="https://github.com/roziqinkhoeru">
-                <img alt="Khoeru Roziqin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roziqinkhoeru&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" />
+                <img alt="Khoeru Roziqin's Top Languages" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roziqinkhoeru&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" />
         </a>
 </p>
 <br/>
