@@ -53,8 +53,20 @@
         <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png" width="40" height="40" title="Bootstrap"/></a>
         <!-- Tailwind -->
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" /></a>
+        <!-- NPM -->
+        <a href="https://www.npmjs.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="40" height="40" title="npm" /></a>
+        <!-- Yarn -->
+        <a href="https://yarnpkg.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/yarn.svg" width="40" height="40" title="Yarn" /></a>
+        <!-- VS Code -->
+        <a href="https://code.visualstudio.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="40" height="40" title="Visual Studio Code" /></a>
+        <!-- Github -->
+        <a href="https://github.com/roziqinkhoeru" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="40" height="40" title="Github"/></a>
+        <!-- Git -->
+        <a href="https://git-scm.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="40" height="40" title="Git"/></a>
         <!-- Figma -->
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
+        <!-- Illustrator -->
+        <!-- Xampp -->
 </p>
 
 <br/>
