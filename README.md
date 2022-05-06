@@ -26,6 +26,10 @@
         <a href="https://www.youtube.com/channel/UCzUYv8PkYwLeFCnLX1-6CXQ/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
         <a href="https://github.com/roziqinkhoeru"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+<p align="center">
+        <a href="https://www.linkedin.com/in/roziqinkhoeru/"><img src="https://img.shields.io/badge/-Khoeru%20Roziqin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+        <a href="https://www.instagram.com/khroz_id/"><img src="https://img.shields.io/badge/-@khroz_id_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 
 <br/>
 
