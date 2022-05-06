@@ -21,8 +21,10 @@
 <br/>
 <h2 align="center">🤝 Connect with me:</h2>
 <p align="center">
-        <a href="https://www.linkedin.com/in/roziqinkhoeru/"><img src="https://img.shields.io/badge/-Khoeru%20Roziqin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-        <a href="https://www.instagram.com/khroz_id/"><img src="https://img.shields.io/badge/-@khroz_id_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+        <a href="https://www.linkedin.com/in/roziqinkhoeru/"><img src="https://img.shields.io/badge/-Khoeru%20Roziqin-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="linkedin badge"/></a>
+        <a href="https://www.instagram.com/khroz_id/"><img src="https://img.shields.io/badge/-@khroz_id_-E4405F?style=flat&logo=Instagram&logoColor=white" alt="instagram badge"/></a>
+        <a href="mailto:roziqinkhoeru8@gmail.com"><img src="https://img.shields.io/badge/-roziqinkhoeru8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="gmail badge"/></a>
+        <a href="https://github.com/roziqinkhoeru"><img src="https://img.shields.io/badge/roziqinkhoeru-100000?style=flat&logo=github&logoColor=white" alt="github badge"/></a>
 </p>
 
 <br/>
