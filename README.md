@@ -25,6 +25,7 @@
         <a href="https://www.instagram.com/khroz_id/"><img src="https://img.shields.io/badge/-@khroz_id_-E4405F?style=flat&logo=Instagram&logoColor=white" alt="instagram badge"/></a>
         <a href="mailto:roziqinkhoeru8@gmail.com"><img src="https://img.shields.io/badge/-roziqinkhoeru8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="gmail badge"/></a>
         <a href="https://github.com/roziqinkhoeru"><img src="https://img.shields.io/badge/roziqinkhoeru-100000?style=flat&logo=github&logoColor=white" alt="github badge"/></a>
+        <a href="https://roziqinkhoeru.github.io/"><img src="https://img.shields.io/badge/roziqinkhoeru.com-%2312100E.svg?&style=flat&logo=safari&logoColor=white"></a>
 </p>
 
 <br/>
