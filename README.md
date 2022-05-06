@@ -63,7 +63,7 @@
 
 <p align="center">
         <a href="https://github.com/roziqinkhoeru">
-                <img alt="Khoeru Roziqin's Top Languages" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roziqinkhoeru&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" />
+                <img alt="Khoeru Roziqin's Top Languages" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roziqinkhoeru&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" />
         </a>
 </p>
 <br/>
