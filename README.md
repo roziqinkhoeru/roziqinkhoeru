@@ -21,12 +21,6 @@
 <br/>
 <h2 align="center">🤝 Connect with me:</h2>
 <p align="center">
-        <a href="https://www.instagram.com/khroz_id/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-        <a href="https://www.linkedin.com/in/roziqinkhoeru/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href="https://www.youtube.com/channel/UCzUYv8PkYwLeFCnLX1-6CXQ/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-        <a href="https://github.com/roziqinkhoeru"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-<p align="center">
         <a href="https://www.linkedin.com/in/roziqinkhoeru/"><img src="https://img.shields.io/badge/-Khoeru%20Roziqin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
         <a href="https://www.instagram.com/khroz_id/"><img src="https://img.shields.io/badge/-@khroz_id_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
@@ -99,6 +93,10 @@
         </a>
         <p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>
 </p>
+
+<br/>
+
+![snake gif](https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake.svg)
 
 <br/>
 <br/>
