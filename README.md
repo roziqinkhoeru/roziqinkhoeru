@@ -4,7 +4,7 @@
 <p align="center">
         <a href="https://github.com/roziqinkhoeru?tab=followers"><img src="https://img.shields.io/github/followers/roziqinkhoeru?label=Followers&style=social" alt="GitHub Badge"></a>
         <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=roziqinkhoeru"></a>
-        <a href="https://github.com/pulls?q=is%3Apr+author%3Aroziqinkhoeru+archived%3Afalse+is%3Aclosed"><img src="https://img.shields.io/github/stars/roziqinkhoeru?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20Stars&logoColor=red&style=social" alt="GitHub User's stars"></a>
+        <a href="https://github.com/roziqinkhoeru"><img src="https://img.shields.io/github/stars/roziqinkhoeru?style=social" alt="GitHub Badge"></a>
 </p>
 
 <br/>
