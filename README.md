@@ -32,7 +32,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="center">
+<p align="left">
         <!-- HTML -->
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" title="HTML5" /></a>
         <!-- CSS -->
@@ -47,6 +47,8 @@
         <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" title="MySQL" /></a>
         <!-- MongoDB -->
         <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" title="MongoDB" /></a>
+</p>
+<p align="left">
         <!-- CodeIgniter -->
         <a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white" title="Codeigniter 4"/></a>
         <!-- React -->
@@ -71,6 +73,8 @@
         <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white" title="npm" /></a>
         <!-- Yarn -->
         <a href="https://yarnpkg.com/" target="_blank"><img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white" title="Yarn" /></a>
+</p>
+<p align="left">
         <!-- VS Code -->
         <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" title="Visual Studio Code" /></a>
         <!-- Github -->
