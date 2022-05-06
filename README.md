@@ -12,8 +12,10 @@
 
 - 👀 I’m interested in web developer especially Front-End Web Dev
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics, and **Web Development**
+- 🖥️ See my portfolio at [roziqinkhoeru.com](https://roziqinkhoeru.github.io/)
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 you can contact via Gmail <a href="mailto:roziqinkhoeru8@gmail.com?">roziqinkhoeru8@gmail.com</a>
+- 🧠 I'm learning NextJS and TailwindCSS.
 
 <br/>
 <h2 align="center">🤝 Connect with me:</h2>
@@ -30,25 +32,29 @@
 
 <p align="center">
         <!-- HTML -->
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="42" title="HTML5" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="40" height="40" title="HTML5" /></a>
         <!-- CSS -->
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="42" title="CSS3"/></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="40" height="40" title="CSS3"/></a>
         <!-- JavaScript -->
-        <a href="https://www.javascript.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="42" title="JavaScript" /></a>
+        <a href="https://www.javascript.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="40" height="40" title="JavaScript" /></a>
         <!-- PHP -->
-        <a href="https://www.php.net/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="42" title="PHP" /></a> 
+        <a href="https://www.php.net/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="40" height="40" title="PHP" /></a> 
         <!-- Sass -->
-        <a href="https://sass-lang.com/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="42" title="Sass" /></a>
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" /></a>
         <!-- JSON -->
-        <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="42" title="JSON" /></a>
+        <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="40" height="40" title="JSON" /></a>
         <!-- Bootstrap -->
-        <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png" width="42" title="Bootstrap"/></a>
+        <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png" width="40" height="40" title="Bootstrap"/></a>
         <!-- JQuery -->
-        <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="42" height="42" alt="JQuery" title="JQuery" /></a>
+        <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="40" height="40" alt="JQuery" title="JQuery" /></a>
         <!-- CodeIgniter -->
-        <a href="https://codeigniter.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" width="42" title="Codeigniter 4"/></a>
+        <a href="https://codeigniter.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" width="40" height="40" title="Codeigniter 4"/></a>
         <!-- React -->
-        <a href="https://reactjs.org/" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="42" title="React" /></a>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a>
+        <!-- Tailwind -->
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" /></a>
+        <!-- Figma -->
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
 </p>
 
 <br/>
