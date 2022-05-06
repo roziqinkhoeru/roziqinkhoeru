@@ -32,6 +32,7 @@
 
 ## 🚀 Languages and Tools:
 
+<h3>Programming Language</h3>
 <p align="left">
         <!-- HTML -->
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" title="HTML5" /></a>
@@ -48,6 +49,8 @@
         <!-- MongoDB -->
         <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" title="MongoDB" /></a>
 </p>
+
+<h3>Library & Framework</h3>
 <p align="left">
         <!-- CodeIgniter -->
         <a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white" title="Codeigniter 4"/></a>
@@ -74,6 +77,8 @@
         <!-- Yarn -->
         <a href="https://yarnpkg.com/" target="_blank"><img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white" title="Yarn" /></a>
 </p>
+
+<h3>Tools</h3>
 <p align="left">
         <!-- VS Code -->
         <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" title="Visual Studio Code" /></a>
