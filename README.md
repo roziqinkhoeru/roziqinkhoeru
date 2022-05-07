@@ -7,6 +7,8 @@
         <a href="https://github.com/roziqinkhoeru"><img src="https://img.shields.io/github/stars/roziqinkhoeru?style=social" alt="GitHub Badge"></a>
 </p>
 
+MEMCIVA HALHQHW
+
 <br/>
 
 ## 🙋‍♂️ About Me
