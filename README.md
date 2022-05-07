@@ -7,8 +7,6 @@
         <a href="https://github.com/roziqinkhoeru"><img src="https://img.shields.io/github/stars/roziqinkhoeru?style=social" alt="GitHub Badge"></a>
 </p>
 
-MEMCIVA HALHQHW
-
 <br/>
 
 ## 🙋‍♂️ About Me
@@ -125,7 +123,7 @@ MEMCIVA HALHQHW
 
 <br/>
 
-## 🐍 Eating away my Contributions...😭
+## 🐍 Eating away my contributions😭... Help!
 
 ![snake gif](https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake.svg)
 
