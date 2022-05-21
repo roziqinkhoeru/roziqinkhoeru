@@ -109,9 +109,9 @@
         <a href="https://github.com/roziqinkhoeru">
                 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khoeru Roziqin's streak" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=roziqinkhoeru&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
         </a>
-        <a href="https://github.com/roziqinkhoeru">
+        <!-- <a href="https://github.com/roziqinkhoeru">
                 <img alt="Khoeru Roziqin's Github Stats" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=roziqinkhoeru&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" />
-        </a>
+        </a> -->
 </p>
 <br/>
 <p align="center">
