@@ -43,13 +43,13 @@
         <!-- JavaScript -->
         <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" /></a>
         <!-- Sass -->
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" alt="Sass" /></a>
+        <!-- <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" alt="Sass" /></a> -->
         <!-- PHP -->
         <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" title="PHP" /></a>
         <!-- MySQL -->
         <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" title="MySQL" /></a>
         <!-- MongoDB -->
-        <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" title="MongoDB" /></a>
+        <!-- <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" title="MongoDB" /></a> -->
 </p>
 
 <h3>📚 Library & Framework</h3>
