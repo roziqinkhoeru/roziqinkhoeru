@@ -14,7 +14,7 @@
 - 👀 I’m interested in web developer especially Front-End Web Dev
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics, and **Web Development**
 - 🏦 I'm a Front End Engineer working for a Cuanmax startup in Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🖥️ See my portfolio at [roziqinkhoeru.com](https://roziqinkhoeru.github.io/)
+- 🖥️ See my portfolio at [roziqinkhoeru.com](https://khoeruroziqin.vercel.app/)
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 you can contact via Gmail <a href="mailto:roziqinkhoeru8@gmail.com?">roziqinkhoeru8@gmail.com</a>
 - 📄 Please have a look at my <a href="https://github.com/roziqinkhoeru">resume</a> for more details about me. I'm open to feedback and suggestions!
@@ -27,7 +27,8 @@
         <a href="https://www.instagram.com/khroz_id/"><img src="https://img.shields.io/badge/-@khroz_id_-E4405F?style=flat&logo=Instagram&logoColor=white" alt="instagram badge"/></a>
         <a href="mailto:roziqinkhoeru8@gmail.com"><img src="https://img.shields.io/badge/-roziqinkhoeru8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="gmail badge"/></a>
         <a href="https://github.com/roziqinkhoeru"><img src="https://img.shields.io/badge/roziqinkhoeru-100000?style=flat&logo=github&logoColor=white" alt="github badge"/></a>
-        <a href="https://roziqinkhoeru.github.io/"><img src="https://img.shields.io/badge/roziqinkhoeru.com-%2312100E.svg?&style=flat&logo=safari&logoColor=white"></a>
+        <a href="https://khoeruroziqin.vercel.app/"><img src="https://img.shields.io/badge/roziqinkhoeru.com-%2312100E.svg?&style=flat&logo=safari&logoColor=white"></a>
+        <a href="https://roziqinkhoeru.showwcase.com/"><img src="https://img.shields.io/badge/roziqinkhoeru-0A0A0A?style=flat&logo=devdotto&logoColor=white"></a>
 </p>
 
 <br/>
