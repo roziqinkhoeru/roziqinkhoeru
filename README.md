@@ -14,13 +14,13 @@
 ## 🙋‍♂️ About Me
 
 - 👀 I’m interested in web developer especially Front-End Web Dev
-- 🌱 I’m currently learning at Diponegoro University, majoring in Informatics, and **Web Development**
-- 🏦 I'm a Front End Engineer working for a Cuanmax startup in Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently learning at Diponegoro University, majoring in Informatics, and **Web Development** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🖥️ See my portfolio at [roziqinkhoeru.com](https://khoeruroziqin.vercel.app/)
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 you can contact via Gmail <a href="mailto:roziqinkhoeru8@gmail.com?">roziqinkhoeru8@gmail.com</a>
-- 📄 Please have a look at my <a href="https://github.com/roziqinkhoeru">resume</a> for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my <a href="https://roziqinkhoeru.showwcase.com/">resume</a> for more details about me. I'm open to feedback and suggestions!
 - 🧠 I'm learning NextJS and TailwindCSS.
+<!-- - 🏦 I'm a Front End Engineer working for a Kamus Crypto startup in Indonesia -->
 
 <br/>
 <h2 align="center">🤝 Connect with me:</h2>
@@ -35,7 +35,7 @@
 
 <br/>
 
-## 🚀 Languages and Tools:
+## 🚀 Tech Stack and Tools:
 
 <h3>🔰 Programming Language</h3>
 <p align="left">
@@ -45,42 +45,34 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" title="CSS3"/></a>
         <!-- JavaScript -->
         <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" /></a>
-        <!-- Sass -->
-        <!-- <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" alt="Sass" /></a> -->
+        <!-- Typescript -->
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" title="TypeScript" /></a>
         <!-- PHP -->
         <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" title="PHP" /></a>
-        <!-- MySQL -->
-        <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" title="MySQL" /></a>
-        <!-- MongoDB -->
-        <!-- <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" title="MongoDB" /></a> -->
 </p>
 
 <h3>📚 Library & Framework</h3>
 <p align="left">
-        <!-- CodeIgniter -->
-        <a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white" title="Codeigniter 4"/></a>
         <!-- React -->
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" /></a>
-        <!-- React Router -->
-        <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router" /></a>
-        <!-- Redux -->
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux" /></a>
-        <!-- Styled Component -->
-        <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="Styled Component" /></a>
         <!-- Next JS -->
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next JS" /></a>
         <!-- JQuery -->
         <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="JQuery" title="JQuery" /></a>
+        <!-- CodeIgniter -->
+        <a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white" title="Codeigniter 4"/></a>
+        <!-- Laravel -->
+        <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" title="Laravel-9"/></a>
+        <!-- Sass -->
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" alt="Sass" /></a>
         <!-- Bootstrap -->
         <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap"/></a>
         <!-- Tailwind -->
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /></a>
-        <!-- Chart JS -->
-        <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white" alt="Chart JS" /></a>
-        <!-- NPM -->
-        <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white" title="npm" /></a>
-        <!-- Yarn -->
-        <a href="https://yarnpkg.com/" target="_blank"><img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white" title="Yarn" /></a>
+        <!-- Chakra UI -->
+        <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ChakraUI-%232d3748?style=flat&logo=hashnode&logoColor=white" alt="TailwindCSS" /></a>
+        <!-- Eslint -->
+        <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white" alt="ESLint" /></a>
 </p>
 
 <h3>⚙ Tools</h3>
@@ -95,9 +87,12 @@
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" /></a>
         <!-- Illustrator -->
         <a href="https://www.adobe.com/sea/products/illustrator.html?gclid=CjwKCAjwjtOTBhAvEiwASG4bCClKLinBHJqz119KE8tXVltRiQrfhpQLyUx88os0LdQGqdRYC61_bxoCtIMQAvD_BwE&sdid=ZXL8F24K&mv=search&ef_id=CjwKCAjwjtOTBhAvEiwASG4bCClKLinBHJqz119KE8tXVltRiQrfhpQLyUx88os0LdQGqdRYC61_bxoCtIMQAvD_BwE:G:s&s_kwcid=AL!3085!3!472466910439!e!!g!!adobe%20illustrator!11350284429!111298123836" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" /></a>
-        <!-- Xampp -->
-        <!-- Jira -->
-        <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" alt="Jira" /></a>
+        <!-- Miro -->
+        <a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white" alt="Miro" /></a>
+        <!-- Notion -->
+        <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" /></a>
+        <!-- Trello -->
+        <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="Trello" /></a>
 </p>
 
 <br/>
@@ -119,13 +114,10 @@
         </a>
 </p>
 <br/>
-<p align="center">
-        <a href="https://github.com/roziqinkhoeru">
-                <img alt="Khoeru Roziqin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roziqinkhoeru&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&area=true&hide_border=true" />
-        </a>
-        <p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>
-</p>
 
+[![Khoeru Roziqin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=roziqinkhoeru&bg_color=0e0e0e&color=eccb14&line=eccb14&point=e6e6e6&area_color=eccb14&area=true&radius=12&hide_border=true)](https://github.com/roziqinkhoeru)
+
+<p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>
 <br/>
 
 ## 🐍 Eating away my contributions😭... Help!
