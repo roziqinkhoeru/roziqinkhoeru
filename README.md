@@ -1,5 +1,3 @@
-[![@roziqinkhoeru's Holopin board](https://holopin.me/roziqinkhoeru)](https://holopin.io/@roziqinkhoeru)
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm <a href="https://roziqinkhoeru.github.io/" target="_blank">Khoeru Roziqin</a></h1>
 <h3 align="center">I'm a passionate Front-End Web Developer from Indonesia.</h3>
 
@@ -23,21 +21,9 @@
 <!-- - 🏦 I'm a Front End Engineer working for a Kamus Crypto startup in Indonesia -->
 
 <br/>
-<h2 align="center">🤝 Connect with me:</h2>
-<p align="center">
-        <a href="https://www.linkedin.com/in/roziqinkhoeru/"><img src="https://img.shields.io/badge/-Khoeru%20Roziqin-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="linkedin badge"/></a>
-        <a href="https://www.instagram.com/khroz_id/"><img src="https://img.shields.io/badge/-@khroz_id_-E4405F?style=flat&logo=Instagram&logoColor=white" alt="instagram badge"/></a>
-        <a href="mailto:roziqinkhoeru8@gmail.com"><img src="https://img.shields.io/badge/-roziqinkhoeru8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="gmail badge"/></a>
-        <a href="https://github.com/roziqinkhoeru"><img src="https://img.shields.io/badge/roziqinkhoeru-100000?style=flat&logo=github&logoColor=white" alt="github badge"/></a>
-        <a href="https://khoeruroziqin.vercel.app/"><img src="https://img.shields.io/badge/roziqinkhoeru.com-%2312100E.svg?&style=flat&logo=safari&logoColor=white"></a>
-        <a href="https://roziqinkhoeru.showwcase.com/"><img src="https://img.shields.io/badge/roziqinkhoeru-0A0A0A?style=flat&logo=devdotto&logoColor=white"></a>
-</p>
-
-<br/>
 
 ## 🚀 Tech Stack and Tools:
 
-<h3>🔰 Programming Language</h3>
 <p align="left">
         <!-- HTML -->
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" title="HTML5" /></a>
@@ -49,50 +35,18 @@
         <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" title="TypeScript" /></a>
         <!-- PHP -->
         <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" title="PHP" /></a>
-</p>
-
-<h3>📚 Library & Framework</h3>
-<p align="left">
-        <!-- React -->
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" /></a>
-        <!-- Next JS -->
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next JS" /></a>
-        <!-- JQuery -->
-        <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="JQuery" title="JQuery" /></a>
         <!-- CodeIgniter -->
         <a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white" title="Codeigniter 4"/></a>
-        <!-- Laravel -->
-        <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" title="Laravel-9"/></a>
-        <!-- Sass -->
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" alt="Sass" /></a>
+        <!-- React -->
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" /></a>
         <!-- Bootstrap -->
         <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap"/></a>
         <!-- Tailwind -->
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /></a>
-        <!-- Chakra UI -->
-        <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ChakraUI-%232d3748?style=flat&logo=hashnode&logoColor=white" alt="TailwindCSS" /></a>
-        <!-- Eslint -->
-        <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white" alt="ESLint" /></a>
-</p>
-
-<h3>⚙ Tools</h3>
-<p align="left">
-        <!-- VS Code -->
-        <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" title="Visual Studio Code" /></a>
-        <!-- Github -->
-        <a href="https://github.com/roziqinkhoeru" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" title="Github"/></a>
-        <!-- Git -->
-        <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" title="Git"/></a>
         <!-- Figma -->
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" /></a>
         <!-- Illustrator -->
         <a href="https://www.adobe.com/sea/products/illustrator.html?gclid=CjwKCAjwjtOTBhAvEiwASG4bCClKLinBHJqz119KE8tXVltRiQrfhpQLyUx88os0LdQGqdRYC61_bxoCtIMQAvD_BwE&sdid=ZXL8F24K&mv=search&ef_id=CjwKCAjwjtOTBhAvEiwASG4bCClKLinBHJqz119KE8tXVltRiQrfhpQLyUx88os0LdQGqdRYC61_bxoCtIMQAvD_BwE:G:s&s_kwcid=AL!3085!3!472466910439!e!!g!!adobe%20illustrator!11350284429!111298123836" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" /></a>
-        <!-- Miro -->
-        <a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white" alt="Miro" /></a>
-        <!-- Notion -->
-        <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" /></a>
-        <!-- Trello -->
-        <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="Trello" /></a>
 </p>
 
 <br/>
@@ -130,11 +84,5 @@
                 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roziqinkhoeru"/>
         </a>
 </p>
-
 <br/>
 <br/>
-
-<!---
-roziqinkhoeru/roziqinkhoeru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
