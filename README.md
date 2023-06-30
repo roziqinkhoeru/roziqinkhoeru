@@ -37,6 +37,8 @@
         <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" title="PHP" /></a>
         <!-- CodeIgniter -->
         <a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white" title="Codeigniter 4"/></a>
+        <!-- Laravel -->
+        <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" title="Laravel 10"/></a>
         <!-- React -->
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" /></a>
         <!-- Bootstrap -->
@@ -69,7 +71,7 @@
 </p>
 <br/>
 
-[![Khoeru Roziqin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=roziqinkhoeru&bg_color=0e0e0e&color=eccb14&line=eccb14&point=e6e6e6&area_color=eccb14&area=true&radius=12&hide_border=true)](https://github.com/roziqinkhoeru)
+[![Khoeru Roziqin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roziqinkhoeru&bg_color=0e0e0e&color=eccb14&line=eccb14&point=e6e6e6&area_color=eccb14&area=true&radius=12&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>
 <br/>
