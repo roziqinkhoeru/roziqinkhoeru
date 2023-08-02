@@ -78,7 +78,7 @@
 
 ## 🐍 Eating away my contributions😭... Help!
 
-![snake gif](https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake.svg)
 
 <br/>
 <p align="center">
