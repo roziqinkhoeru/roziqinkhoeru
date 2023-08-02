@@ -83,12 +83,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake.svg">
 </picture>
-
 <br/>
+<br/>
+
 <p align="center">
         <a href="https://www.buymeacoffee.com/roziqinkhoeru">
                 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roziqinkhoeru"/>
         </a>
 </p>
+
 <br/>
 <br/>
