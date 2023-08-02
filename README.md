@@ -78,8 +78,6 @@
 
 ## 🐍 Eating away my contributions😭... Help!
 
-![snake animation](https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake.svg">
