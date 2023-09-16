@@ -73,7 +73,7 @@
 
 [![Khoeru Roziqin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roziqinkhoeru&bg_color=0e0e0e&color=eccb14&line=eccb14&point=e6e6e6&area_color=eccb14&area=true&radius=12&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>
+<!-- <p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p> -->
 <br/>
 
 ## 🐍 Eating away my contributions😭... Help!
@@ -86,11 +86,11 @@
 <br/>
 <br/>
 
-<p align="center">
+<!-- <p align="center">
         <a href="https://www.buymeacoffee.com/roziqinkhoeru">
                 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roziqinkhoeru"/>
         </a>
-</p>
+</p> -->
 
 <br/>
 <br/>
