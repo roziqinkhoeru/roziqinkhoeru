@@ -2,9 +2,15 @@
 <h3 align="center">I'm a passionate Front-End Web Developer from Indonesia.</h3>
 
 <p align="center">
-        <a href="https://github.com/roziqinkhoeru?tab=followers"><img src="https://img.shields.io/github/followers/roziqinkhoeru?label=Followers&style=social" alt="GitHub Badge"></a>
-        <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=roziqinkhoeru"></a>
-        <a href="https://github.com/roziqinkhoeru"><img src="https://img.shields.io/github/stars/roziqinkhoeru?style=social" alt="GitHub Badge"></a>
+        <a href="https://github.com/roziqinkhoeru?tab=followers">
+                <img src="https://img.shields.io/github/followers/roziqinkhoeru?label=Followers&style=social" alt="GitHub Followers">
+        </a>
+        <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+                <img src="https://komarev.com/ghpvc/?username=roziqinkhoeru" alt="Github Profile Views">
+        </a>
+        <a href="https://github.com/roziqinkhoeru">
+                <img src="https://img.shields.io/github/stars/roziqinkhoeru?style=social" alt="GitHub Stars">
+        </a>
 </p>
 
 <br/>
@@ -73,24 +79,22 @@
 
 [![Khoeru Roziqin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roziqinkhoeru&bg_color=0e0e0e&color=eccb14&line=eccb14&point=e6e6e6&area_color=eccb14&area=true&radius=12&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- <p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p> -->
+<p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>
 <br/>
 
 ## 🐍 Eating away my contributions😭... Help!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake.svg">
-</picture>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake.svg">
+
 <br/>
 <br/>
 
-<!-- <p align="center">
+
+<p align="center">
         <a href="https://www.buymeacoffee.com/roziqinkhoeru">
                 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roziqinkhoeru"/>
         </a>
-</p> -->
+</p>
 
 <br/>
 <br/>
