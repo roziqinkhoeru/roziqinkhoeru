@@ -13,12 +13,12 @@
 
 - 👀 I’m interested in web developer especially Front-End Web Dev
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics, and **Web Development** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🖥️ See my portfolio at [roziqinkhoeru.com](https://khoeruroziqin.vercel.app/)
+- 🖥️ See my portfolio at [here](https://khoeruroziqin.vercel.app/)
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 you can contact via Gmail <a href="mailto:roziqinkhoeru8@gmail.com?">roziqinkhoeru8@gmail.com</a>
 - 📄 Please have a look at my <a href="https://roziqinkhoeru.showwcase.com/">resume</a> for more details about me. I'm open to feedback and suggestions!
 - 🧠 I'm learning NextJS and TailwindCSS.
-<!-- - 🏦 I'm a Front End Engineer working for a Kamus Crypto startup in Indonesia -->
+- 💼 I am looking for a job as Frontend Web Dev (?)
 
 <br/>
 
