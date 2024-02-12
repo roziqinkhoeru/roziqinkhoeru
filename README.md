@@ -1,10 +1,16 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm <a href="https://roziqinkhoeru.github.io/" target="_blank">Khoeru Roziqin</a></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Khoeru Roziqin</h1>
 <h3 align="center">I'm a passionate Front-End Web Developer from Indonesia.</h3>
 
 <p align="center">
-        <a href="https://github.com/roziqinkhoeru?tab=followers"><img src="https://img.shields.io/github/followers/roziqinkhoeru?label=Followers&style=social" alt="GitHub Badge"></a>
-        <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=roziqinkhoeru"></a>
-        <a href="https://github.com/roziqinkhoeru"><img src="https://img.shields.io/github/stars/roziqinkhoeru?style=social" alt="GitHub Badge"></a>
+        <a href="https://github.com/roziqinkhoeru?tab=followers">
+                <img src="https://img.shields.io/github/followers/roziqinkhoeru?label=Followers&style=social" alt="GitHub Followers">
+        </a>
+        <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+                <img src="https://komarev.com/ghpvc/?username=roziqinkhoeru" alt="Github Profile Views">
+        </a>
+        <a href="https://github.com/roziqinkhoeru">
+                <img src="https://img.shields.io/github/stars/roziqinkhoeru?style=social" alt="GitHub Stars">
+        </a>
 </p>
 
 <br/>
@@ -13,12 +19,12 @@
 
 - 👀 I’m interested in web developer especially Front-End Web Dev
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics, and **Web Development** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🖥️ See my portfolio at [roziqinkhoeru.com](https://khoeruroziqin.vercel.app/)
+- 🖥️ See my portfolio at [here](https://khoeruroziqin.vercel.app/)
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 you can contact via Gmail <a href="mailto:roziqinkhoeru8@gmail.com?">roziqinkhoeru8@gmail.com</a>
 - 📄 Please have a look at my <a href="https://roziqinkhoeru.showwcase.com/">resume</a> for more details about me. I'm open to feedback and suggestions!
 - 🧠 I'm learning NextJS and TailwindCSS.
-<!-- - 🏦 I'm a Front End Engineer working for a Kamus Crypto startup in Indonesia -->
+- 💼 I am looking for a job as Frontend Web Dev (?)
 
 <br/>
 
@@ -78,14 +84,19 @@
 
 ## 🐍 Eating away my contributions😭... Help!
 
-![snake animation](https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/roziqinkhoeru/roziqinkhoeru/blob/output/github-contribution-grid-snake.gif)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/roziqinkhoeru/roziqinkhoeru/output/github-contribution-grid-snake.svg">
+</picture>
 <br/>
+<br/>
+
 <p align="center">
         <a href="https://www.buymeacoffee.com/roziqinkhoeru">
                 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roziqinkhoeru"/>
         </a>
 </p>
+
 <br/>
 <br/>
