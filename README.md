@@ -1,10 +1,16 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm <a href="https://roziqinkhoeru.github.io/" target="_blank">Khoeru Roziqin</a></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Khoeru Roziqin</h1>
 <h3 align="center">I'm a passionate Front-End Web Developer from Indonesia.</h3>
 
 <p align="center">
-        <a href="https://github.com/roziqinkhoeru?tab=followers"><img src="https://img.shields.io/github/followers/roziqinkhoeru?label=Followers&style=social" alt="GitHub Badge"></a>
-        <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=roziqinkhoeru"></a>
-        <a href="https://github.com/roziqinkhoeru"><img src="https://img.shields.io/github/stars/roziqinkhoeru?style=social" alt="GitHub Badge"></a>
+        <a href="https://github.com/roziqinkhoeru?tab=followers">
+                <img src="https://img.shields.io/github/followers/roziqinkhoeru?label=Followers&style=social" alt="GitHub Followers">
+        </a>
+        <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+                <img src="https://komarev.com/ghpvc/?username=roziqinkhoeru" alt="Github Profile Views">
+        </a>
+        <a href="https://github.com/roziqinkhoeru">
+                <img src="https://img.shields.io/github/stars/roziqinkhoeru?style=social" alt="GitHub Stars">
+        </a>
 </p>
 
 <br/>
