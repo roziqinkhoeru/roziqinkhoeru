@@ -16,6 +16,8 @@
 	"editor.fontLigatures": true,
 	"workbench.iconTheme": "material-icon-theme",
 	"workbench.colorTheme": "One Dark Pro Darker",
+	"workbench.editor.pinnedTabsOnSeparateRow": true,
+	"workbench.editor.wrapTabs": true,
 	"material-ui-snippets.showNotesOnStartup": false,
 	"git.autofetch": true,
 	"prettier.useTabs": true,
