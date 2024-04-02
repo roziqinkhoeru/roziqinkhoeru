@@ -1,0 +1,112 @@
+{
+	"workbench.colorTheme": "One Dark Pro Darker",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.editor.pinnedTabsOnSeparateRow": true,
+	"workbench.editor.wrapTabs": true,
+	"workbench.settings.editor": "json",
+
+	"git.autofetch": true,
+	"git.suggestSmartCommit": false,
+	"terminal.integrated.cursorBlinking": true,
+
+	"editor.fontFamily": "Fira Code",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 12.5,
+	"editor.cursorBlinking": "expand",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	// "editor.formatOnType": true,
+	"editor.guides.bracketPairs": true,
+	"editor.renderWhitespace": "all",
+	"editor.semanticHighlighting.enabled": true,
+	"editor.snippetSuggestions": "top",
+	"editor.stickyScroll.enabled": true,
+	"editor.suggestSelection": "first",
+	"editor.tabSize": 2,
+	"editor.wordWrap": "wordWrapColumn",
+	// "editor.wordWrap": "on",
+	"editor.accessibilitySupport": "off",
+	"editor.bracketPairColorization.enabled": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "explicit"
+	},
+	"editor.detectIndentation": false,
+	"editor.multiCursorModifier": "alt",
+	"editor.insertSpaces": true,
+
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+
+	"editor.inlineSuggest.enabled": true,
+
+	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 500,
+	"files.exclude": {
+		"**/*.js.map": {
+			"when": "$(basename)"
+		},
+		"**/node_modules": false
+	},
+	"files.trimTrailingWhitespace": true, // remove trailing white spaces from all lines
+	"files.trimFinalNewlines": true, // Ensures there's only one blank line at the end of the file
+	"files.encoding": "utf8",
+
+	"eslint.validate": [
+		"javascript",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact"
+	],
+
+	"emmet.includeLanguages": {
+		"markdown": "html",
+		"javascript": "javascriptreact",
+		"typescript": "typescriptreact"
+	},
+	"emmet.syntaxProfiles": {
+		"javascript": "html",
+		"typescript": "html"
+	},
+	"emmet.showSuggestionsAsSnippets": true,
+	"emmet.triggerExpansionOnTab": true,
+
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features",
+		"editor.formatOnSave": true
+	},
+
+	"[javascript, javascriptreact, typescript, scss, jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.formatOnSave": false
+	},
+
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.black-formatter",
+		"editor.formatOnSave": true
+	},
+
+	"[blade]": {
+		"editor.defaultFormatter": "shufo.vscode-blade-formatter"
+	},
+
+	"[markdown]": {
+		"editor.formatOnSave": true,
+		"editor.renderWhitespace": "all",
+		"editor.acceptSuggestionOnEnter": "off"
+	},
+
+	"autoprefixer.options": {
+		"browsers": ["last 4 versions", "ie >= 9", "> 5%"]
+	},
+
+	"material-ui-snippets.showNotesOnStartup": false,
+
+	"prettier.useTabs": true,
+
+	"eslint.format.enable": true,
+
+	"blade.format.enable": true,
+
+	"LaravelExtraIntellisense.disableBlade": true
+}
