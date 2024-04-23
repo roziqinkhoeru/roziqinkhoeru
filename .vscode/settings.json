@@ -29,7 +29,10 @@
 	"editor.accessibilitySupport": "off",
 	"editor.bracketPairColorization.enabled": true,
 	"editor.codeActionsOnSave": {
-		"source.fixAll": "explicit"
+		"source.fixAll": "explicit",
+		"source.fixAll.eslint": "explicit",
+		"source.fixAll.tslint": "explicit",
+		"source.organizeImports": "explicit"
 	},
 	"editor.detectIndentation": false,
 	"editor.multiCursorModifier": "alt",
@@ -52,12 +55,7 @@
 	"files.trimFinalNewlines": true, // Ensures there's only one blank line at the end of the file
 	"files.encoding": "utf8",
 
-	"eslint.validate": [
-		"javascript",
-		"javascriptreact",
-		"typescript",
-		"typescriptreact"
-	],
+	"eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
 
 	"emmet.includeLanguages": {
 		"markdown": "html",
@@ -86,8 +84,18 @@
 		"editor.formatOnSave": true
 	},
 
+	"[php]": {
+		"editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+		"editor.formatOnSave": true
+	},
+
 	"[blade]": {
 		"editor.defaultFormatter": "shufo.vscode-blade-formatter"
+	},
+
+	"[astro]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.formatOnSave": true
 	},
 
 	"[markdown]": {
@@ -100,13 +108,23 @@
 		"browsers": ["last 4 versions", "ie >= 9", "> 5%"]
 	},
 
+	"typescript.tsdk": "node_modules/typescript/lib",
+
 	"material-ui-snippets.showNotesOnStartup": false,
 
 	"prettier.useTabs": true,
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "all",
+	"prettier.arrowParens": "always",
+	"prettier.jsxSingleQuote": true,
+	"prettier.printWidth": 120,
 
 	"eslint.format.enable": true,
 
 	"blade.format.enable": true,
 
-	"LaravelExtraIntellisense.disableBlade": true
+	"LaravelExtraIntellisense.disableBlade": true,
+
+	"gitignore.cacheExpirationInterval": 3600,
+	"typescript.updateImportsOnFileMove.enabled": "always"
 }
