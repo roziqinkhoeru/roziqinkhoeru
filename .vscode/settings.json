@@ -90,7 +90,8 @@
 	},
 
 	"[blade]": {
-		"editor.defaultFormatter": "shufo.vscode-blade-formatter"
+		"editor.defaultFormatter": "onecentlin.laravel-blade",
+		"editor.formatOnSave": true
 	},
 
 	"[astro]": {
