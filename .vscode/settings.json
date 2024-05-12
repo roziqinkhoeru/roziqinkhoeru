@@ -44,7 +44,7 @@
 	"editor.inlineSuggest.enabled": true,
 
 	"files.autoSave": "afterDelay",
-	"files.autoSaveDelay": 500,
+	"files.autoSaveDelay": 5000,
 	"files.exclude": {
 		"**/*.js.map": {
 			"when": "$(basename)"
