@@ -82,6 +82,9 @@
 <p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>
 <br/>
 
+[![An image of @roziqinkhoeru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roziqinkhoeru)](https://holopin.io/@roziqinkhoeru)
+<br/>
+
 ## 🐍 Eating away my contributions😭... Help!
 
 <picture>
