@@ -1,0 +1,133 @@
+{
+  // --- UI & APPEARANCE (The "Clean" Look) ---
+  "workbench.colorTheme": "Antigravity",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.location": "top",
+  "workbench.statusBar.visible": true,
+  "editor.breadcrumbs.enabled": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "window.titleBarStyle": "custom",
+  "window.commandCenter": false,
+  "editor.minimap.enabled": true,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.showSlider": "always",
+  "editor.minimap.scale": 1,
+  "editor.minimap.autohide": "none",
+  "editor.minimap.side": "right",
+  "workbench.editor.wrapTabs": true,
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.editor.pinnedTabsOnSeparateRow": true,
+
+  // --- TYPOGRAPHY & CURSOR (The "Pro" Feel) ---
+  "editor.fontFamily": "'JetBrains Mono', 'Fira Code', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 12.5,
+  "editor.lineHeight": 24,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorStyle": "line",
+  "editor.renderWhitespace": "selection",
+  "editor.detectIndentation": true,
+
+  // --- INTELLIGENCE & FORMATTING ---
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairsHorizontal": "active",
+  "editor.stickyScroll.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "typescript": "jsx"
+  },
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.arrowParens": "always",
+  "prettier.trailingComma": "all",
+  "prettier.printWidth": 120,
+  "prettier.useTabs": false,
+  "editor.insertSpaces": true,
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "on"
+  },
+
+  // --- STACK SPECIFIC: LARAVEL & PHP ---
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+    "editor.formatOnSave": true
+  },
+  "[blade]": {
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter",
+    "editor.formatOnSave": true
+  },
+  "blade.format.enable": true,
+  "emmet.includeLanguages": {
+    "blade": "html",
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "LaravelExtraIntellisense.disableBlade": true,
+
+  // --- STACK SPECIFIC: REACT, NEXT.JS, INERTIA ---
+  "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[javascriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[typescriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "prettier.requireConfig": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  // --- STACK SPECIFIC: PRISMA & WEB3 ---
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma",
+    "editor.formatOnSave": true
+  },
+  "[solidity]": {
+    "editor.defaultFormatter": "NomicFoundation.hardhat-solidity"
+  },
+
+  // --- WORKFLOW OPTIMIZATION ---
+  "files.autoSave": "onFocusChange",
+  "files.trimTrailingWhitespace": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/vendor": false
+  },
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "terminal.integrated.fontFamily": "'MesloLGS NF', 'Fira Code'",
+  "terminal.integrated.cursorBlinking": true,
+  "editor.formatOnPaste": true,
+  "editor.snippetSuggestions": "top",
+  "editor.suggestSelection": "first",
+  "editor.semanticHighlighting.enabled": true,
+  "editor.inlineSuggest.enabled": true,
+  "files.trimFinalNewlines": true,
+  "git.suggestSmartCommit": false,
+
+  // --- MAC SPECIFIC OPTIMIZATION ---
+  "editor.fontSmoothing": "antialiased",
+  "workbench.auxiliaryBar.location": "left",
+  "window.nativeTabs": false,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.macOptionIsMeta": true
+}
